@@ -1,1 +1,1 @@
-그냥 잡동사니입니다. 
+This is my trashcan.
